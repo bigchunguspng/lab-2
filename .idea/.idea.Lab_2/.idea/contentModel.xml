@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\u1\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\u1\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Lab_2.-1091396198.00" t="ExcludeRecursive" />
+    <e p="C:\Users\u1\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\u1\RiderProjects\Lab\Lab_2" t="IncludeFlat">
+      <e p="Lab_2" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Lab_2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Task 1" t="Include">
+          <e p="Address.cs" t="Include" />
+        </e>
+        <e p="Task 2" t="Include">
+          <e p="Rectangle.cs" t="Include" />
+        </e>
+        <e p="Task 3" t="Include">
+          <e p="Author.cs" t="Include" />
+          <e p="Book.cs" t="Include" />
+          <e p="Content.cs" t="Include" />
+          <e p="Title.cs" t="Include" />
+        </e>
+        <e p="Task 4" t="Include">
+          <e p="Figure.cs" t="Include" />
+          <e p="Point.cs" t="Include" />
+        </e>
+        <e p="Task 5" t="Include">
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="Task 6" t="Include">
+          <e p="Converter.cs" t="Include" />
+        </e>
+        <e p="Task 7" t="Include">
+          <e p="Employee.cs" t="Include" />
+        </e>
+        <e p="Task 8" t="Include">
+          <e p="Invoice.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Lab_2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
